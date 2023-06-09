@@ -1,0 +1,11 @@
+{
+  "name" : null ,
+    "address" : {
+        "street" : {
+            "streetone" : {
+              "houseNo": null
+            }
+        },
+        "city" : null
+    }
+}

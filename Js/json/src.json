@@ -1,0 +1,15 @@
+{
+    "name" : "Chosen" ,
+    "address" : {
+        "street" : {
+            "streetone" : {
+                "houseNo" : "123",
+                "blockNo" : "123"
+            },
+            "streettwo" : "two"
+        },
+        "city" : "Moratuwa",
+        "country" : "Sri Lanka"
+    },
+    "email" : "ninthu1999@gmail.com"
+}
