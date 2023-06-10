@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bamboo-clone-389408",
+  "private_key_id": "64ca82316e79ca73750a8a025334a289c10dae97",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCe1yVydwRxNyAT\n70q+zkWnT6j/VfqIL0A3Sx8NDIery37I3DxiivvcJCe7e/q6UGvWqvinffAk1wuj\n7zw3zbRhfTN5FavyWHPuLZvvMV4OR3CJT2Ltoj7Njh+TiXCQRlYtTDYGWOQ6eW2A\nat5Bly+bOT1K9Jy4hDQnfY6ho1BGFIL02MHxTUXvG2MPQBVUlh5YrueH/CDQtxqs\noYrejGj9mgkR07nHX6+riRxpCyVvv12vYZewaCUEJcC8aApfPdbYhEEQsXiY/dEE\n+RjZpRqP8VM2ezZeXDVaStoRwkv5LImF4uuh3Ovsg8LZPMsTUTQbpvkeoGsfJ5J3\nn4LsOznHAgMBAAECggEABVhtMLBzrFG0GSek5s3vRyWlpM4ia8HXUeULyvcge7YR\n8rWCrLhLqIlo8uTFt85sCqHfU1eoJL097YroBmK8TsmVWV5S1omGgT30sPSC200p\nKt3KkP+0SFufkWn/KUPMs6KMcOM97v/WIQu3phJt7jXba7HWslj0nl2Z1rO1yF3r\nvRytY/5SmJj7338giQSTJ+kx2WqDXQ5oOD9WU9XN63LRK0o/VvLFJNgz5O8Dwjlr\nP9LuVbvC0lMrJKd3gz6BJa08zlNGeyshkPKMh4k+Z3mvHnUpR57CZMYw5m6g72Z0\n5FnLTYtpcT+gT8wn7PskNVhPCBKVTPHYPixWnvZRJQKBgQDYYwesCTJKrFnb0rjX\nh42MnBCoW4WfiZHkKan//ObbvQNQw6GUlLcp2WVWRunbYCFZjeqmaCTLILy/O6ri\nuvVw4bAva1FyC9Ggg392RWoLLQtSt77QeWEQ4/hKF+X1aqpvQ7m35erbgLFmnpLD\nW9m9ND6mEMrcFUtpKhjdV6/0rQKBgQC76zP613ttmjVBxMxq4O1jTx7EllZ+isjn\nCpeZXt/oOXsUr/9ZHjd03F87378gep3JfEVrMsdDIMGS2PEi6pAzzKYp9MKJUJG5\n/FNVYVvbl5Xmemifm7vwV2ENJZ32yu/fx5+x+5ZAZiBL7gBc5g/2hz0Z9a14V8lV\n7lYYDUSCwwKBgQC7yKUdzRVR7GRG+oXitQZIIh/qmxJJMy/im62mM6l8xHkeG8gb\nkzupG7pvtza3ZKNMfnZGV1am2RAzvOo9vRXHEnS9khqqKEuRSszQrMisTjjnXgJA\nFTYBXHVah4bPBfRGfrWrO+Im/3X0omSnGQzKv44mu6fweqJo71mIrNJMOQKBgGQI\nrc//O1Y5+9W59HOErvnpmWBfA0YzjQTor5DWX20YhDucANso6a6MzSlrTyvz+eDT\nBYUuL8K9Qi5wy9ShdwgMDfxRrek4+Yo/FwFhZWu9AvABA4bLeT1U1nYQK0m/9/dx\nJcKyQeagNtsUpB7P3XmHvm/+R0zDtorG6A+/qFPPAoGAZPAOavIOyv67AymdUsiH\nd8XRJebusZdQ0RZuSY0nvJodQj4CUFhiqIuLcz6QfcNE4zi4Y7W2HPQ7pbcHTQKq\nnf8PrmvqJXDlLx9XuaQSeZPJ4g3A9jHsF6bcfb4btIivP+zcVv2OVTFUCoXHc/6e\narc5xVCGMaupXsRlFHrgc48=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-calendar-api@bamboo-clone-389408.iam.gserviceaccount.com",
+  "client_id": "105099124310963950991",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-calendar-api%40bamboo-clone-389408.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
