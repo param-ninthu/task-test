@@ -62,8 +62,6 @@ VALUES
 
 
 
-
-
 SELECT DISTINCT name from "group" AS grp  
 INNER JOIN "groupMembership" AS grpMem  
 ON grp.id NOT IN (SELECT groupID from groupMembership)  
@@ -81,3 +79,7 @@ SELECT DISTINCT usr.firstname, usr.lastname, grp.name, usr.created as userCreate
 INNER JOIN groupMembership AS grpMem ON usr.id = grpMem.userID
 INNER JOIN "group" as grp ON grp.id = grpMem.groupID 
 WHERE usr.created < grp.created ;
+
+
+
+

@@ -1,37 +1,37 @@
 // Here we can see that I imported the src and proto json files from the json folder
 // If you want to test this code with your own json objects you can simply replace the src and proto files with your own json files
-import src from "./json/src.json";
-import proto from "./json/proto.json";
+// import src from "./json/src.json";
+// import proto from "./json/proto.json";
 
 // Also meantime I defined the src and proto json objects here for your convenience
 
-// const src = {
-//   name: "Chosen",
-//   address: {
-//     street: {
-//       streetone: {
-//         houseNo: "123",
-//         blockNo: "123",
-//       },
-//       streettwo: "two",
-//     },
-//     city: "Moratuwa",
-//     country: "Sri Lanka",
-//   },
-//   email: "ninthu1999@gmail.com",
-// };
+const src = {
+  name: "Chosen",
+  address: {
+    street: {
+      streetone: {
+        houseNo: "123",
+        blockNo: "123",
+      },
+      streettwo: "two",
+    },
+    city: "Moratuwa",
+    country: "Sri Lanka",
+  },
+  email: "ninthu1999@gmail.com",
+};
 
-// const proto = {
-//   name: null,
-//   address: {
-//     street: {
-//       streetone: {
-//         houseNo: null,
-//       },
-//     },
-//     city: null,
-//   },
-// };
+const proto = {
+  name: null,
+  address: {
+    street: {
+      streetone: {
+        houseNo: null,
+      },
+    },
+    city: null,
+  },
+};
 
 const projectObject = (src, proto) => {
   // Here we are creating a new object called res to store the projected object
